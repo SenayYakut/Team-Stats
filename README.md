@@ -8,6 +8,7 @@ Once created, you can manipulate these data structures as well as gain insights 
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/Team-Stats.git
 ```
 
 ## Usage
